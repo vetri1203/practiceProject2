@@ -28,8 +28,16 @@ margin: 5px;
     align-items: center;
     border-radius: 6px;
     text-align: initial;
-    cursor: pointer;
+    cursor:text;
 }
 .remaing{
     color: brown;
+   
+}
+
+.btn{
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(129, 227, 227);
 }
